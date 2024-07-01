@@ -21,4 +21,5 @@
   <content>Catalog.Контрагенты</content>
   <content>Catalog.Номенклатура</content>
   <content>Document.ПриемНаРаботу</content>
+  <content>Catalog.Подразделения</content>
 </mdclass:Subsystem>

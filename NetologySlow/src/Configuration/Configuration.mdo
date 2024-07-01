@@ -51,6 +51,7 @@
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Подразделения</catalogs>
   <documents>Document.ПриемНаРаботу</documents>
   <enums>Enum.Пол</enums>
   <enums>Enum.ЮридическоеФизическоеЛицо</enums>
