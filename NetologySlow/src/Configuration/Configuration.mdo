@@ -54,6 +54,7 @@
   <catalogs>Catalog.Подразделения</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <documents>Document.ПриемНаРаботу</documents>
+  <documents>Document.КадровоеПеремещение</documents>
   <enums>Enum.Пол</enums>
   <enums>Enum.ЮридическоеФизическоеЛицо</enums>
 </mdclass:Configuration>

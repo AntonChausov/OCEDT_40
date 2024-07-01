@@ -23,4 +23,5 @@
   <content>Document.ПриемНаРаботу</content>
   <content>Catalog.Подразделения</content>
   <content>Catalog.Производители</content>
+  <content>Document.КадровоеПеремещение</content>
 </mdclass:Subsystem>
