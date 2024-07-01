@@ -20,4 +20,5 @@
   <content>Enum.ЮридическоеФизическоеЛицо</content>
   <content>Catalog.Контрагенты</content>
   <content>Catalog.Номенклатура</content>
+  <content>Document.ПриемНаРаботу</content>
 </mdclass:Subsystem>
