@@ -22,4 +22,5 @@
   <content>Catalog.Номенклатура</content>
   <content>Document.ПриемНаРаботу</content>
   <content>Catalog.Подразделения</content>
+  <content>Catalog.Производители</content>
 </mdclass:Subsystem>
