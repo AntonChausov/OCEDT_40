@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3813740c-26c2-4e33-a5d0-36c19fbc174b">
+  <name>УправлениеИТФирмой</name>
+  <synonym>
+    <key>ru</key>
+    <value>Управление ИТ-фирмой</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="07e798d9-f228-4f27-97b2-c9511372dd3d"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="b1792608-9160-446b-ac8a-e70c21d9ea9d"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="b6a00eda-da7a-494e-8616-b6a9b80d8f11"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="5f84a278-3619-4b0a-b95f-a87b366e5fa3"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="08217654-8606-41e7-a4f8-16683c0a6f51"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="1cd2f9de-0b96-4e1a-9050-3c9602d1f763"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="d34c64e7-bf3a-4451-b650-db091c6349e2"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.24</compatibilityMode>
+  <languages uuid="fce56c4d-56fa-4d93-bc73-f3cf806e98fc">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Настройки</subsystems>
+  <sessionParameters>SessionParameter.ТекущийСотрудник</sessionParameters>
+  <roles>Role.ПолныеПрава</roles>
+  <roles>Role.БазовыеПрава</roles>
+  <commonModules>CommonModule.РаботаСИННКлиентСервер</commonModules>
+  <functionalOptions>FunctionalOption.ВестиРасчетЗарплаты</functionalOptions>
+  <definedTypes>DefinedType.Сумма</definedTypes>
+  <commonCommands>CommonCommand.НастройкаПрограммы</commonCommands>
+  <constants>Constant.ВестиРасчетЗарплаты</constants>
+  <commonForms>CommonForm.НастройкаПрограммы</commonForms>
+  <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <enums>Enum.Пол</enums>
+  <enums>Enum.ЮридическоеФизическоеЛицо</enums>
+</mdclass:Configuration>
